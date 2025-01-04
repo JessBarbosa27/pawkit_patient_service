@@ -1,2 +1,2 @@
-# pawkit_patient_service-
-pawkit patient microservice
+# pawkit_pet_service
+pawkit pet microservice
